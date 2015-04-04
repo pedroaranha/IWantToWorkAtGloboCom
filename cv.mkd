@@ -10,10 +10,12 @@ CV
 
 # Pedro Aranha
 http://www.pedroaranha.com
+
 Nascido em 25/01/1990
 
 ## Informações para Contato
 (81) 9151-6028
+
 pedroaranha7@gmail.com
 
 ## Escolaridade
@@ -47,19 +49,23 @@ pedroaranha7@gmail.com
 ### Estágio de Verão
 - DST Systems -> Kansas City, MO
 - De 06/2014 a 08/2014 -> 40h Semanais
-- Desenvolvimento do front-end e back-end para soluções no mercado de ações, financeiro e em planos de saúde. Aplicações desenvolvidas para Web em Java, JSP e JSF (usando a framework Spring) e JavaScript. Experiência com Web Services usando REST e SOAP, desenvolvimento ágil com Scrum, utilizando a plataforma JIRA, testes unitários em Java e banco de dados Oracle.
+- Desenvolvimento do front-end e back-end para soluções no mercado de ações, financeiro e em planos de saúde. Aplicações desenvolvidas para Web em Java, JSP e JSF (usando a framework Spring) e JavaScript.
+
+- Experiência com Web Services usando REST e SOAP, desenvolvimento ágil com Scrum, utilizando a plataforma JIRA, testes unitários em Java e banco de dados Oracle.
 
 ### Programador Web Júnior
 - Complexo de Ensino Renato Saraiva -> Recife, PE
 - De 02/2013 a 12/2013 -> 46h Semanais
-- Desenvolvimento de Backend, refatoração e análise de aplicações e plataformas web de eCommerce e websites de vendas de Cursos Online e Livros Digitais para concursos públicos. Todos desenvolvidos em Ruby on Rails, utilizando tecnologias como PostgreSQL, JQuery, entre outras. Usou extensivamente o método ágil Kanban, trabalhando em equipe durante toda a experiência. Desenvolveu APIs em Ruby on Rails com a gem "Grape", POCs em Android e iOS e atendendo com suporte ao cliente quando necessário.
+- Desenvolvimento de Backend, refatoração e análise de aplicações e plataformas web de eCommerce e websites de vendas de Cursos Online e Livros Digitais para concursos públicos. Todos desenvolvidos em Ruby on Rails, utilizando tecnologias como PostgreSQL, JQuery, entre outras.
+
+- Usou extensivamente o método ágil Kanban, trabalhando em equipe durante toda a experiência. Desenvolveu APIs em Ruby on Rails com a gem "Grape", POCs em Android e iOS e atendendo com suporte ao cliente quando necessário.
 
 ### Estagiário
 - Opará -> Recife, PE
 - De 07/2011 a 12/2012 -> 30h Semanais
 - Primeiro contato real com Desenvolvimento Web e primeiro contato com Ruby on Rails e Desenvolvimento Ágil, utilizando Scrum e Kanban. Opará é uma startup brasileira localizada em Recife, Pernambuco. Participamos do programa de aceleração StartupBootcamp Dublin, na Irlanda, durante 4 meses. O projeto começou a ser desenvolvido utilizando Struts 2, migrando algum tempo depois para Ruby on Rails.
 
-Encubada no Porto Digital, o Opará promove novos níveis de controle para o processo de produção agrícola. O projeto almeja criar um gerenciamento compreensível e a rastreabilidade de todo processo de produção. O Opará é o instrumento que mantém todos envolvidos no ciclo de produção de frutas unidos numa única plataforma, gerenciando as ações e integrando todas as informações referentes aos produtos na cadeia de produção, rastreando-os desde a fazenda, até o supermercado.
+- Encubada no Porto Digital, o Opará promove novos níveis de controle para o processo de produção agrícola. O projeto almeja criar um gerenciamento compreensível e a rastreabilidade de todo processo de produção. O Opará é o instrumento que mantém todos envolvidos no ciclo de produção de frutas unidos numa única plataforma, gerenciando as ações e integrando todas as informações referentes aos produtos na cadeia de produção, rastreando-os desde a fazenda, até o supermercado.
 
 ### Vendedor
 - Livraria Saraiva -> Recife, PE
