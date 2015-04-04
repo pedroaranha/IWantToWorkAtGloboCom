@@ -1,19 +1,72 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Área de Webmedia (3 vagas)
+* DevOps Webmedia (2 vagas)
+* Desenvolvimento Webmedia (1 vaga)
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+# Pedro Aranha
+http://www.pedroaranha.com
+Nascido em 25/01/1990
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+## Informações para Contato
+(81) 9151-6028
+pedroaranha7@gmail.com
+
+## Escolaridade
+- Ensino Superior Incompleto em Análise e Desenvolvimento de Sistemas no IFPE, cursando o 7º Período com previsão para graduação em Julho de 2015
+- Cursou 2 semestres de Ciência da Computação na Missouri University of Science and Technology através do Programa Ciência sem Fronteiras
+
+## Idiomas
+- Boa habilidade de comunicação verbal e escrita, com possibilidade utilizar um vocabulário formal
+- Inglês Fluente, de fácil compreensão e dicção avançada, sempre atualizado com extensivo conhecimento em expressões idiomáticas
+- Espanhol e Japonês Básico
+
+## Habilidades Pessoais
+- Entusiasta por código limpo e otimizado, sempre em busca de novas fontes de conhecimento e melhores métodos de implementação
+- Trabalha bem sob pressão, atingindo metas e deadlines sempre que possível. Focado e Disciplinado
+- Pró-ativo, intuitivo, com boa habilidade de resolução de problemas
+- Disponível para viajar a trabalho sempre que necessário
+
+## Conhecimentos
+- Desenvolveu aplicações Web utilizando a framework Ruby on Rails por mais de 2 anos contínuos, utilizando das mais diversas tecnologias para solucionar problemas nos projetos apresentados.
+- Implementou aplicações RESTful utilizando TDD, com testes unitários simples até mais complexos com mocks em RSpec e Cucumber
+- Grande conhecimento em Java e C++, com experiência acadêmica e profissional. Ajudou a desenvolver aplicações utilizando a framework Spring durante 2 meses de estágio numa empresa sitiada em Kansas City, MO.
+- Utilizou diversas ferramentas de desenvolvimento durante toda a experiência profissional, com:
+  * Banco de Dados Relacionais e não-relacionais (MySQL, PostgreSQL, MongoDB, No-SQL)
+  * JavaScript e jQuery para implementar funcionalidades client-side
+  * Ferramentas de Desenvolvimento Ágil como Scrum e Kanban, usando ferramentas corporativas online como o JIRA
+  * Scripts para automatização e migração de dados, utilizando Shell Script e Ruby
+  * Trabalha lado a lado com o BASH Terminal, com conhecimento em diversos comandos e utilitários
+  * Desenvolvimento de APIs em Ruby on Rails utilizando a gem "Grape"
+
+## Experiências Profissionais
+### Estágio de Verão
+- DST Systems -> Kansas City, MO
+- De 06/2014 a 08/2014 -> 40h Semanais
+- Desenvolvimento do front-end e back-end para soluções no mercado de ações, financeiro e em planos de saúde. Aplicações desenvolvidas para Web em Java, JSP e JSF (usando a framework Spring) e JavaScript. Experiência com Web Services usando REST e SOAP, desenvolvimento ágil com Scrum, utilizando a plataforma JIRA, testes unitários em Java e banco de dados Oracle.
+
+### Programador Web Júnior
+- Complexo de Ensino Renato Saraiva -> Recife, PE
+- De 02/2013 a 12/2013 -> 46h Semanais
+- Desenvolvimento de Backend, refatoração e análise de aplicações e plataformas web de eCommerce e websites de vendas de Cursos Online e Livros Digitais para concursos públicos. Todos desenvolvidos em Ruby on Rails, utilizando tecnologias como PostgreSQL, JQuery, entre outras. Usou extensivamente o método ágil Kanban, trabalhando em equipe durante toda a experiência. Desenvolveu APIs em Ruby on Rails com a gem "Grape", POCs em Android e iOS e atendendo com suporte ao cliente quando necessário.
+
+### Estagiário
+- Opará -> Recife, PE
+- De 07/2011 a 12/2012 -> 30h Semanais
+- Primeiro contato real com Desenvolvimento Web e primeiro contato com Ruby on Rails e Desenvolvimento Ágil, utilizando Scrum e Kanban. Opará é uma startup brasileira localizada em Recife, Pernambuco. Participamos do programa de aceleração StartupBootcamp Dublin, na Irlanda, durante 4 meses. O projeto começou a ser desenvolvido utilizando Struts 2, migrando algum tempo depois para Ruby on Rails.
+
+Encubada no Porto Digital, o Opará promove novos níveis de controle para o processo de produção agrícola. O projeto almeja criar um gerenciamento compreensível e a rastreabilidade de todo processo de produção. O Opará é o instrumento que mantém todos envolvidos no ciclo de produção de frutas unidos numa única plataforma, gerenciando as ações e integrando todas as informações referentes aos produtos na cadeia de produção, rastreando-os desde a fazenda, até o supermercado.
+
+### Vendedor
+- Livraria Saraiva -> Recife, PE
+- De 09/2010 a 11/2010 -> 44h Semanais
+- Vendedor de Softwares, Games, Tecnologia e Gadgets na Saraiva MegaStore. Encarregado na venda e apresentação de produtos a clientes, organização de estoque e suporte técnico em diversas áreas.
+
+### Estagiário
+- MV Sistemas -> Recife, PE
+- De 10/2009 a 12/2009 -> 30h Semanais
+- Primeiro contato com Linguagens de Programação (Java) e Banco de Dados MySQL. Atendimento e suporte direto ao cliente, tirando dúvidas e solucionando problemas que possam ocorrer no ambiente de produção. Redação de manuais de uso interno sobre implementação e utilização de novas tecnologias.
