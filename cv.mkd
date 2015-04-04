@@ -8,15 +8,15 @@ Vaga
 CV
 ==
 
-# Pedro Aranha
-http://www.pedroaranha.com
+# Pedro Aranha - http://www.pedroaranha.com
+Nascido em 25/01/1990, Porto Alegre - RS
 
-Nascido em 25/01/1990
+Reside em Recife - PE
 
 ## Informações para Contato
-(81) 9151-6028
-
 pedroaranha7@gmail.com
+
+(81) 9151-6028
 
 ## Escolaridade
 - Ensino Superior Incompleto em Análise e Desenvolvimento de Sistemas no IFPE, cursando o 7º Período com previsão para graduação em Julho de 2015
